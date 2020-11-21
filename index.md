@@ -50,8 +50,6 @@ Email: me (at) chriz.hk <br />
 Phone: ![Number](img/number.png) <br />
 LinkedIn: [Chriz Chow](https://www.linkedin.com/in/chrizchow)
 
-> Most of the things can be learned, but not be taught.
-
 * * *
 
-Last Update: 18 Jul 2019
+Last Update: 21 Nov 2020
