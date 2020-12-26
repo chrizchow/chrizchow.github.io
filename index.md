@@ -44,6 +44,12 @@ I have participated in these projects:
 
 * A Lightweight D2D Authentication Scheme against Free-riding Attacks in 5G Cellular Network. [DOI: 10.1145/3409934.3409952](https://doi.org/10.1145/3409934.3409952)
 
+* A Blockchain-Enabled 5G Authentication Scheme Against DoS Attacks. _(Accepted in CECIT 2020)_
+
+## Tech Blog
+
+* [牛油貓的筆記 Diary of Buttered Cat](https://cat.chriz.hk) (in Chinese)
+
 ## Contact
 
 Email: me (at) chriz.hk <br />
@@ -52,4 +58,4 @@ LinkedIn: [Chriz Chow](https://www.linkedin.com/in/chrizchow)
 
 * * *
 
-Last Update: 21 Nov 2020
+Last Update: 26 Dec 2020
