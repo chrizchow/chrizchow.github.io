@@ -8,15 +8,15 @@ Hello, my name is **Chriz CHOW** _(CHOW Man Chun)_. Good to see you!
 
 ## About Me
 
-Currently, I am doing my **Master of Engineering (M.Eng)** in EEE at Nanyang Technological University. My research interests are 5G communication and network security.
+I am doing my **Master of Engineering (M.Eng)** in EEE at Nanyang Technological University. My research interests are 5G communication, network protocols and network security.
 
 
 ## Portfolio
 
 | Year        | Qualification / Work Experience                 |
 |:------------|:------------------------------------------------|
-| Present     | Research Assistant, SUTD Corp Lab               |
 | Present     | M.Eng in EEE, Nanyang Technological University  |
+| 2020 - 2021 | Research Assistant II, SUTD Corp Lab            |
 | 2017 - 2019 | Graduate Engineer, Amino Communications         |
 | 2015 - 2016 | Firmware Engineer, Lexiwave Technology          |
 | 2012 - 2017 | B.Eng in Computer Engineering, H.K.U.S.T.       |
@@ -42,9 +42,9 @@ I have participated in these projects:
 
 ## Publications
 
-* A Lightweight D2D Authentication Scheme against Free-riding Attacks in 5G Cellular Network. [DOI: 10.1145/3409934.3409952](https://doi.org/10.1145/3409934.3409952)
+* A Lightweight D2D Authentication Scheme against Free-riding Attacks in 5G Cellular Network. [[ 10.1145/3409934.3409952]](https://doi.org/10.1145/3409934.3409952)
 
-* A Blockchain-Enabled 5G Authentication Scheme Against DoS Attacks. _(Accepted in CECIT 2020)_
+* A Blockchain-Enabled 5G Authentication Scheme Against DoS Attacks. [[10.1088/1742-6596/1812/1/012030]](https://doi.org/10.1088/1742-6596/1812/1/012030)
 
 ## Tech Blog
 
@@ -58,4 +58,4 @@ LinkedIn: [Chriz Chow](https://www.linkedin.com/in/chrizchow)
 
 * * *
 
-Last Update: 26 Dec 2020
+Last Update: 27 Feb 2021
