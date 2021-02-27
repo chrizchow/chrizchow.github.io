@@ -8,7 +8,7 @@ Hello, my name is **Chriz CHOW** _(CHOW Man Chun)_. Good to see you!
 
 ## About Me
 
-I am doing my **Master of Engineering (M.Eng)** in EEE at Nanyang Technological University. My research interests are 5G communication, network protocols and network security.
+I am doing my **Master of Engineering (M.Eng)** at Nanyang Technological University. My research interests are 5G communication, network protocols and network security.
 
 
 ## Portfolio
@@ -36,15 +36,15 @@ I have participated in these projects:
 * **Boxing Machine iOS Client** - written in Swift 4, this is an iOS App which uses WebSocket and JSON to control a boxing machine connected to a local network.
 
 
-## Open Source Contributions
+## FOSS Contributions
 
 * [Linux: Prevent buffer overflow for large advertisement data](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ee6493462f74013c6f365429401b716500aff838)
 
 ## Publications
 
-* A Lightweight D2D Authentication Scheme against Free-riding Attacks in 5G Cellular Network. [[ 10.1145/3409934.3409952]](https://doi.org/10.1145/3409934.3409952)
+* A Lightweight D2D Authentication Scheme against Free-riding Attacks in 5G Cellular Network [[10.1145/3409934.3409952](https://doi.org/10.1145/3409934.3409952)].
 
-* A Blockchain-Enabled 5G Authentication Scheme Against DoS Attacks. [[10.1088/1742-6596/1812/1/012030]](https://doi.org/10.1088/1742-6596/1812/1/012030)
+* A Blockchain-Enabled 5G Authentication Scheme Against DoS Attacks [[10.1088/1742-6596/1812/1/012030](https://doi.org/10.1088/1742-6596/1812/1/012030)].
 
 ## Tech Blog
 
