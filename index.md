@@ -8,7 +8,7 @@ Hello, my name is **Chriz CHOW** _(CHOW Man Chun)_. Good to see you!
 
 ## About Me
 
-I am doing my **Master of Engineering (M.Eng)** at Nanyang Technological University. My research interests are 5G communication, network protocols and network security.
+My research interests are 5G communication, network protocols and network security.
 
 
 ## Portfolio
@@ -16,7 +16,7 @@ I am doing my **Master of Engineering (M.Eng)** at Nanyang Technological Univers
 | Year        | Qualification / Work Experience                 |
 |:------------|:------------------------------------------------|
 | Present     | Software Design Engineer, Realtek               |
-| Present     | M.Eng in EEE, Nanyang Technological University  |
+| 2019 - 2021 | M.Eng in EEE, Nanyang Technological University  |
 | 2017 - 2019 | Graduate Engineer, Amino Communications         |
 | 2015 - 2016 | Firmware Engineer, Lexiwave Technology          |
 | 2012 - 2017 | B.Eng in Computer Engineering, H.K.U.S.T.       |
@@ -43,6 +43,9 @@ I have participated in these projects:
 * A Blockchain-Enabled 5G Authentication Scheme Against DoS Attacks [[10.1088/1742-6596/1812/1/012030](https://doi.org/10.1088/1742-6596/1812/1/012030)].
 
 * Attack Models and Countermeasures for Autonomous Vehicles [[10.1007/978-3-030-76493-7_12](https://link.springer.com/chapter/10.1007/978-3-030-76493-7_12)].
+
+* A lightweight traceable D2D authentication and key agreement scheme in 5G cellular networks [[10.1016/j.compeleceng.2021.107375](https://doi.org/10.1016/j.compeleceng.2021.107375)].
+
 
 ## Tech Blog
 
