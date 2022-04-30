@@ -15,7 +15,8 @@ My research interests are 5G communication, network protocols and network securi
 
 | Year        | Qualification / Work Experience                 |
 |:------------|:------------------------------------------------|
-| Present     | Software Design Engineer, Realtek               |
+| Present     | Senior Firmware Engineer, AMD                   |
+| 2021 - 2021 | Software Design Engineer, Realtek               |
 | 2019 - 2021 | M.Eng in EEE, Nanyang Technological University  |
 | 2017 - 2019 | Graduate Engineer, Amino Communications         |
 | 2015 - 2016 | Firmware Engineer, Lexiwave Technology          |
