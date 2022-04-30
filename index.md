@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello, my name is **Chriz CHOW** _(CHOW Man Chun)_. Good to see you!
+Hey, my name is **CHOW Man Chun** _(Chriz)_. Nice to meet you!
 
 * * *
 
@@ -54,9 +54,9 @@ I have participated in these projects:
 
 ## Contact
 
-Email: me (at) chriz.hk <br />
+Email: me (at) chrizchow.com <br />
 LinkedIn: [Chriz Chow](https://www.linkedin.com/in/chrizchow)
 
 * * *
 
-Last Update: 27 Feb 2021
+Last Update: 30 Apr 2022
