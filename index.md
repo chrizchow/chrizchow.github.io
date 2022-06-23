@@ -8,7 +8,7 @@ Hey, my name is **CHOW Man Chun** _(Chriz)_. Nice to meet you!
 
 ## About Me
 
-My research interests are 5G communication, network protocols and network security.
+My research interests are embedded system designs, authentication protocols and network security.
 
 
 ## Portfolio
@@ -32,12 +32,14 @@ I have participated in these projects:
 
 * **STM32 OTA Bootloader** - written in ANSI-C, this bootloader downloads, flashes and verifies the latest firmware to the STM32F103x FLASH partition automatically.
 
-* **Hong Kong Toilet Finder** - an Android App which locates itself and finds the nearest public toilet in Hong Kong using Google APIs [[Code](https://github.com/cmcvista/HKToilet)].
-
 * **Boxing Machine iOS Client** - written in Swift 4, this is an iOS App which uses WebSocket and JSON to control a boxing machine connected to a local network.
 
 
 ## Publications
+
+* A lightweight traceable D2D authentication and key agreement scheme in 5G cellular networks [[10.1016/j.compeleceng.2021.107375](https://doi.org/10.1016/j.compeleceng.2021.107375)].
+
+* A Secure Blockchain-Based Authentication and Key Agreement Scheme for 3GPP 5G Networks [[10.3390/s22124525](https://doi.org/10.3390/s22124525)].
 
 * A Lightweight D2D Authentication Scheme against Free-riding Attacks in 5G Cellular Network [[10.1145/3409934.3409952](https://doi.org/10.1145/3409934.3409952)].
 
@@ -45,7 +47,7 @@ I have participated in these projects:
 
 * Attack Models and Countermeasures for Autonomous Vehicles [[10.1007/978-3-030-76493-7_12](https://link.springer.com/chapter/10.1007/978-3-030-76493-7_12)].
 
-* A lightweight traceable D2D authentication and key agreement scheme in 5G cellular networks [[10.1016/j.compeleceng.2021.107375](https://doi.org/10.1016/j.compeleceng.2021.107375)].
+* Secure D2D in 5G Cellular Networks: Architecture, Requirements and Solutions [[10.1007/978-3-030-87049-2_20](https://doi.org/10.1007/978-3-030-87049-2_20)].
 
 
 ## Tech Blog
@@ -59,4 +61,4 @@ LinkedIn: [Chriz Chow](https://www.linkedin.com/in/chrizchow)
 
 * * *
 
-Last Update: 30 Apr 2022
+Last Update: 23 Jun 2022
