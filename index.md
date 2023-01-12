@@ -17,7 +17,7 @@ My research interests are embedded system designs, authentication protocols and 
 |:------------|:------------------------------------------------|
 | Present     | Senior Firmware Engineer, AMD                   |
 | 2021 - 2021 | Software Design Engineer, Realtek               |
-| 2019 - 2021 | M.Eng in EEE, Nanyang Technological University  |
+| 2019 - 2021 | Master of Engineering, NTU Singapore            |
 | 2017 - 2019 | Graduate Engineer, Amino Communications         |
 | 2015 - 2016 | Firmware Engineer, Lexiwave Technology          |
 | 2012 - 2017 | B.Eng in Computer Engineering, H.K.U.S.T.       |
@@ -50,9 +50,12 @@ I have participated in these projects:
 * Secure D2D in 5G Cellular Networks: Architecture, Requirements and Solutions [[10.1007/978-3-030-87049-2_20](https://doi.org/10.1007/978-3-030-87049-2_20)].
 
 
-## Tech Blog
+## Blogs
 
-* [牛油貓的筆記 Diary of Buttered Cat](https://cat.chriz.hk) (in Chinese)
+* [牛油貓的筆記 Diary of Buttered Cat](https://cat.chrizchow.com) (in Chinese)
+
+* [Chriz Blog](https://blog.chrizchow.com) (in Chinese)
+
 
 ## Contact
 
@@ -61,4 +64,4 @@ LinkedIn: [Chriz Chow](https://www.linkedin.com/in/chrizchow)
 
 * * *
 
-Last Update: 23 Jun 2022
+Last Update: 12 Jan 2023
